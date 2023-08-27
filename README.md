@@ -11,6 +11,8 @@ Processing3(Java)で開発しており、ビルドにはProcessing3が必要で�
 ![タイトル画面](https://github.com/saikiRA1011/popipo_s_adventure/blob/main/thumbnail/thumbnail.png "タイトル画面")
 タイトル画面はAdventureのつづりを間違えています。
 
+![プレイ画面](https://github.com/saikiRA1011/popipo_s_adventure/blob/main/thumbnail/play.png "プレイ画面")
+
 ## 操作
 ADキーで左右移動、スペースキーでジャンプします。
 
